@@ -1,0 +1,22 @@
+h1 {
+    color: darkgreen ;
+    text-align: center;
+}
+h2 {
+    color:#2e8b57 ;
+    text-align: left;
+}
+
+.Parágrafo1{
+color:rgb(0, 0, 0);
+text-align: justify;
+}
+.Parágrafo2{
+color: rgb(0, 0, 0);
+text-align: right;
+font-size: larger;
+
+}
+body{
+    background-color: chartreuse;
+}
