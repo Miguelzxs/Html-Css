@@ -1,0 +1,122 @@
+.Parágrafo {
+  color: blue;
+}
+
+
+#titulo-principal {
+  background-color: yellow;
+}
+
+
+.subtitulo {
+  color: green;
+}
+
+
+li {
+  color: red;
+}
+
+
+.div1 {
+  background-color: lightblue;
+}
+.div2 {
+  background-color: lightgreen;
+}
+
+
+p, h2, h3 {
+  color: purple;
+}
+
+
+#paragrafo-centralizado {
+  text-align: center;
+}
+
+
+#link-google {
+  color: orange;
+}
+#link-youtube {
+  color: red;
+}
+
+
+.destaque {
+  font-weight: bold;
+  color: blue;
+}
+
+
+img {
+  border: 2px solid black;
+}
+
+
+div p {
+  color: brown;
+}
+
+
+.paragrafo1 {
+  color: teal;
+}
+.paragrafo2 {
+  color: pink;
+}
+
+
+#titulo-arial {
+  font-family: Arial, sans-serif;
+}
+
+
+.negrito {
+  font-weight: bold;
+}
+.italico {
+  font-style: italic;
+}
+.sublinhado {
+  text-decoration: underline;
+}
+
+
+div h3 {
+  color: darkblue;
+}
+
+
+#caixa1 {
+  background-color: red;
+}
+#caixa2 {
+  background-color: green;
+}
+#caixa3 {
+  background-color: blue;
+}
+
+
+.palavra-destacada {
+  color: orange;
+}
+
+
+#caixa-colorida {
+  background-color: lightcoral;
+  border: 2px solid black;
+  padding: 10px;
+}
+
+
+.links-sublinhados {
+  text-decoration: underline;
+}
+
+
+h1, p, a {
+  color: darkgreen;
+}
